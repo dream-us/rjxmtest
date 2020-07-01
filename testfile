@@ -1,0 +1,13 @@
+#include<"stdio.h">
+
+int main()
+{
+    int mun1,num2;
+    printf("Please input two number:");
+    scanf("The first num:%d",&num1);
+    scanf("The second num:%d",&num2);
+    int sum = 0;
+    pro = num1 * num2;
+    printf("%d * %d = %d",num1,num2,pro);
+    return 0;
+}
